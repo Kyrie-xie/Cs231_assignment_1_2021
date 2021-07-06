@@ -1,2 +1,1 @@
-# Cs231_assignment_1
- 
+# My solution to the Cs231 Assignment 1
